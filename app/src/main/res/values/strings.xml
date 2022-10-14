@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bakhtiev_I_N</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contactsText">Контакты</string>
+    <string name="aboutText">Про нас</string>
+    <string name="mainscenetext">Главная</string>
+    <string name="Courses">Courses</string>
+    <string name="App">App</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+    <string name="course_desc">За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+
+</resources>
